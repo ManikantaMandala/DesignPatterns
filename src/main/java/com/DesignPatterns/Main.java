@@ -1,5 +1,4 @@
 package com.DesignPatterns;
-import com.DesignPatterns.Builder.*;
 import com.DesignPatterns.Creational.Builder.Person;
 
 public class Main {
